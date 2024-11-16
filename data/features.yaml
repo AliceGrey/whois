@@ -1,0 +1,40 @@
+about:
+  name: Allie Roblee
+  tagline: Cyber Threat Intelligence Leader
+  links:
+    - title: allieroblee
+      url: https://linkedin.com/in/allieroblee
+      icon: fab fa-linkedin
+    - title: alicegrey
+      url: https://github.com/alicegrey
+      icon: fab fa-github
+  details: |
+    Senior Threat Intelligence Analyst with a demonstrated history of working in enterprise security as a security analyst.
+     Member of the GIAC Advisory Board. Certified in Cyber Threat Intelligence (CTI) and Red Team Operations.
+     Skilled in Vulnerability Management Vulnerability Assessment, Cybercrime Investigation, Malware Analysis, Information Security Analysis, Intelligence Applications, Security Baselines, Intelligence Fundamentals, and Open Source Intelligence.
+
+certifications:
+  - title: "Adversary Infrastructure Hunter"
+    subtitle: "Intel-Ops"
+    date: "2024"
+
+  - title: "GIAC Cyber Threat Intelligence (GCTI)"
+    subtitle: "GIAC"
+    date: "2023"
+
+  - title: "Certified Red Team Operator (CRTO)"
+    subtitle: "Red Team Operator Certification"
+    date: "2022"
+
+press:
+  - title: "Hackers Behind MGM Attack Targeting Financial Sector"
+    subtitle: "Forbes"
+    date: "2024"
+
+  - title: "What GoDaddy’s Years-Long Breach Means"
+    subtitle: "Dark Reading"
+    date: "2023" 
+
+  - title: "The Server Has Been Infected With Ransomware"
+    subtitle: "DotMed"
+    date: "2023"
