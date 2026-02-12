@@ -1,39 +1,33 @@
 - company: Accenture
   roles:
-    - role: Incident Response Threat Intelligence Lead
+    - role: Advanced Threat Engagement & Analysis Technical Lead, Global
       details: |
-        Leading threat intelligence initiatives to enhance incident response capabilities.
-        Overseeing a team of analysts to detect, assess, and respond to cybersecurity threats.
       date: 2024 - Present
-
+- company: Accenture
+  roles:
+    - role: Threat Intelligence Lead, Americas
+      details: |
+      date: 2024 - 2025
 - company: Resilience
   roles:
     - role: Senior Intelligence Analyst
       details: |
-        Conducted in-depth cyber threat intelligence analysis to support proactive defense strategies.
-        Collaborated with cross-functional teams to mitigate risks and strengthen cybersecurity infrastructure.
       date: 2022 - 2024
 
 - company: Packaging Corporation of America
   roles:
     - role: Security Administrator
       details: |
-        Managed and secured enterprise IT systems, focusing on system integrity and compliance.
-        Implemented security measures to prevent unauthorized access and safeguard sensitive data.
       date: 2021 - 2022
 
 - company: Gap Inc.
   roles:
     - role: Store Technology Proactive Monitoring Analyst
       details: |
-        Monitored and optimized store technology systems to ensure operational continuity.
-        Identified and resolved technical issues, minimizing downtime across retail locations.
       date: 2019 - 2021
 
 - company: Geek Squad
   roles:
     - role: Advanced Repair Agent
       details: |
-        Diagnosed and repaired a wide range of consumer electronics, providing high-quality service.
-        Delivered technical support and solutions to customers in-store and on-site.
       date: 2015 - 2019
